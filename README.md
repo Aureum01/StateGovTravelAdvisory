@@ -678,13 +678,6 @@ npm start
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-For support, please contact:
-- **Email**: support@travel-advisory-api.com
-- **Documentation**: [API Docs](http://localhost:3000/api-docs)
-- **Issues**: [GitHub Issues](https://github.com/username/travel-advisory-api/issues)
-
 ## 🙏 Acknowledgments
 
 - U.S. Department of State for providing the travel advisory data
